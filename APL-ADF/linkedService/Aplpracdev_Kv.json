@@ -1,0 +1,11 @@
+{
+	"name": "Aplpracdev_Kv",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://aplpracdev-kv.vault.azure.net/"
+		}
+	}
+}

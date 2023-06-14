@@ -1,0 +1,9 @@
+{
+	"name": "APL-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7270ebf6-036f-45f8-bdbb-11d15cef8886",
+		"tenantId": "7085725b-f01d-4d02-ad1c-b1a8a6f44106"
+	}
+}
