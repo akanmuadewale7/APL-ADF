@@ -1,0 +1,12 @@
+{
+	"name": "RestService_AgentList",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "http://crm.flyairpeace.com/HoduCC_api/v1.4/getAgentList",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
