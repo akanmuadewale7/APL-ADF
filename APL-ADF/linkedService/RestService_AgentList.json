@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "http://crm.flyairpeace.com/HoduCC_api/v1.4/getAgentList",
+			"url": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
